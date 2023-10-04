@@ -24,10 +24,6 @@ export const astar = /*#__PURE__*/ defineChain({
             name: 'Blockscout',
             url: 'https://blockscout.com/astar',
         },
-        etherscan: {
-            name: 'Blockscout',
-            url: 'https://blockscout.com/astar',
-        },
     },
     contracts: {
         multicall3: {
